@@ -34,7 +34,7 @@ public class MainActivity extends SlidingFragmentActivity implements TabChangedL
 		slidingMenu.setMode(SlidingMenu.LEFT);
 		//设置内容页的显示距离
 		slidingMenu.setBehindOffsetRes(R.dimen.slidingmenu_offset);
-		
+		//jji
 		//
 		slidingMenu.setShadowDrawable(R.drawable.shadow);
 		//当前倒影的宽度
@@ -67,15 +67,11 @@ public class MainActivity extends SlidingFragmentActivity implements TabChangedL
 	}
 
 	/**初始化登录，如果本地sp已记录登录信息return true
-	 * @return
+	 * @return true:成功 false：失败
 	 */
 	private boolean verifyLogin() {
 		String loginInfo = SharedPreferencesUtils.getStringData(this, "LoginInfo", "");
-		if(TextUtils.isEmpty(loginInfo)){
-			return false;
-		}else{
-			return true;
-		}
+		return !TextUtils.isEmpty(loginInfo);
 	}
 
 	public MenuFragment getMenuFragment() {
