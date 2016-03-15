@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+	<!-- 顶部标题 -->
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/layout_title_bar" />
+    
+    
+    	<!-- 底部要去随时切换的一个帧布局 -->
+    <FrameLayout
+        android:layout_below="@id/title_bar"
+        android:id="@+id/fl_of_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    </RelativeLayout>
+	<!-- 底部要去随时切换的一个帧布局 -->
+    <!-- <FrameLayout
+        android:layout_below="@id/title_bar"
+        android:id="@+id/news_center_fl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+        
+        <LinearLayout
+            android:id="@+id/llBtnPanel"
+            android:layout_width="match_parent"
+            android:layout_height="280dip"
+            android:layout_marginLeft="28dip"
+            android:layout_marginRight="28dip"
+            android:layout_below="@id/title_bar"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" 
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rlNoun"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:clickable="true"
+                    android:background="@drawable/click_btn_item_part_word"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:id="@+id/tvNoun"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerInParent="true"
+                        android:text="@string/noun"
+                        android:textColor="#FFD4D4D1"
+                        android:textSize="@dimen/textsize20" />
+
+                    <ImageView
+                        android:id="@+id/ivNoun"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@id/tvNoun"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="@dimen/margin5"
+                        android:src="@drawable/ic_bg_music" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tvNoun"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dip"
+                        android:text="@string/noun"
+                        android:textSize="@dimen/textsize11" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rlVerb"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_btn_item_part_word"
+                    android:clickable="true"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:id="@+id/tvVerb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerInParent="true"
+                        android:text="@string/verb"
+                        android:textColor="#FFD4D4D1"
+                        android:textSize="@dimen/textsize20" />
+
+                    <ImageView
+                        android:id="@+id/ivVerb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@id/tvVerb"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="@dimen/margin5"
+                        android:src="@drawable/ic_customer_chanel" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tvVerb"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dip"
+                        android:text="@string/verb"
+                        android:textSize="@dimen/textsize11" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rlAdj"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_btn_item_part_word"
+                    android:clickable="true"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:id="@+id/tvAdj"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerInParent="true"
+                        android:text="@string/adj"
+                        android:textColor="#FFD4D4D1"
+                        android:textSize="@dimen/textsize20" />
+
+                    <ImageView
+                        android:id="@+id/ivAdj"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@id/tvAdj"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="@dimen/margin5"
+                        android:src="@drawable/ic_demand" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tvAdj"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dip"
+                        android:text="@string/verb"
+                        android:textSize="@dimen/textsize11" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+        
+        -->
+

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\update_loading_progressbar_anim.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\update_loading_progressbar_anim.xml"
+    },
+    {
+        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\anim\\cycle_7.xml"
+    }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:fadingEdge="none"
+     android:fadingEdgeLength="0dp"
+     android:overScrollMode="never"
+     android:scrollbars="none" >
+
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@mipmap/sakurajp"
+	    android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/sakurajp"/>
+
+	    <ImageView
+        android:id="@+id/iv_left"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:layout_margin="7dp"
+        android:background="@mipmap/back"
+		android:layout_marginTop="10dp"
+        android:paddingLeft="10dp" />
+
+	    <TextView
+	        android:id="@+id/tv_sentence"
+	        android:layout_below="@id/iv_left"
+	        android:layout_marginTop="10dp"
+	        android:layout_width="wrap_content"
+	        android:layout_height="60dp"
+	        android:text="别经的大街小巷，中华人民共和国成立了。"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:textSize="25sp"
+	        android:textColor="#882555"
+	        />
+
+	    <TextView
+			android:id="@+id/tv_shiyi"
+	        android:layout_below="@id/tv_sentence"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:textStyle="bold"
+			android:layout_marginLeft="10dp"
+			android:layout_marginTop="10dp"
+	        android:text="释义："/>
+
+	    <TextView
+			android:id="@+id/tv_sentence_cn"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="1949年中华人民共和国成立le ,人民站起来了"
+			android:layout_below="@id/tv_shiyi"
+			android:layout_marginRight="10dp"
+			android:layout_marginTop="10dp"
+			android:textColor="#554433"
+			android:layout_marginLeft="10dp"
+			android:textSize="23sp"
+			/>
+		<TextView
+			android:id="@+id/tv_parse_tip"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/tv_sentence_cn"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:layout_marginTop="10dp"
+			android:text="解析"
+			android:textStyle="bold"
+			/>
+
+		<TextView
+			android:id="@+id/tv_parse"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginRight="10dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginTop="10dp"
+			android:layout_below="@id/tv_parse_tip"
+			android:textColor="#554433"
+			android:text="注意一定是接在句首"/>
+
+	</RelativeLayout>
+</ScrollView>
+

@@ -1,0 +1,24 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="gray_background">#ffececec</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#E51A18</color>
+    <color name="line_color">#523E2E</color>
+   
+    <color name="search_tab_nomarl">#363636</color>
+    <color name="search_tab_select">#E82926</color>
+    <color name="menu_item_text_color">#E60200</color>
+    
+    <color name="news_item_has_read_textcolor">#828282</color>
+    <color name="news_item_no_read_textcolor">#363636</color>
+    <color name="bottom_text_color">#666666</color>
+    <color name="news_tab_theme">#FF5544</color>
+    <color name="gray">#773C3C3C</color>
+    <color name="gray_notrans">#773C3C3C</color>
+    <color name="gray_h">#EE3C3C3C</color>
+	<color name="update_normal">#F6F6F6</color>
+    <color name="update_press">#CCC8CC</color>
+    <color name="word_item_gray">#E5E5E5</color>
+</resources>

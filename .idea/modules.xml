@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myNihonnGo/myNihonnGo.iml" filepath="$PROJECT_DIR$/myNihonnGo/myNihonnGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynihhogo.iml" filepath="$PROJECT_DIR$/mynihhogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenu_library/slidingMenu_library.iml" filepath="$PROJECT_DIR$/slidingMenu_library/slidingMenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutil_library/xutil_library.iml" filepath="$PROJECT_DIR$/xutil_library/xutil_library.iml" />
+    </modules>
+  </component>
+</project>

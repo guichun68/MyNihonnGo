@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Japanese handbook</string>
+    <string name="tab_function">HomePage</string>
+    <string name="tab_smart_service">bak1</string>
+    <string name="tab_gov_affairs">bak2</string>
+    <string name="tab_setting">Setting</string>
+    <string name="share_content">This japanese Handbook app is very good.</string>
+    <string name="removeItem">Delete</string>
+    <string name="hintEnterUserName">Please input your user name.</string>
+    <string name="hintEnterPwd">Please input password</string>
+    <string name="login">Login</string>
+    <string name="forgetPwd">Forget password</string>
+    <string name="remindNotOperate">Let us study together</string>
+    <string name="hintPwdWrong">wrong password</string>
+    <string name="hintCheckNet">pls check network</string>
+    <string name="confirm">OK</string>
+    <string name="hintEnterPhoneNum">please input phone No.</string>
+    <string name="hintPhoneNumFormatWrong">Illegal mobile No.</string>
+    <string name="hintAccountOrPwdWrong">Incorrect username or password!</string>
+    <string name="hintLoginFail">Login failed,pls contact administrator</string>
+	<string name="hintautologin">remember username and password</string>
+	
+	<!--  -->
+	<string name="noun">Noun</string>
+	<string name="verb">Verb</string>
+	<string name="adj">Adjective</string>
+	<string name="others">Others</string>
+	<string name="zero_tone">0</string>
+	<string name="one_tone">①</string>
+	<string name="two_tone">②</string>
+	<string name="three_tone">③</string>
+	<string name="four_tone">④</string>
+	<string name="five_tone">⑤</string>
+	<string name="six_tone">⑥</string>
+	<string name="seven_tone">⑦</string>
+	<string name="eight_tone">⑧</string>
+	<string name="nine_tone">⑨</string>
+	<string name="ten_tone">⑩</string>
+	<string name="no_enough_data">there\'s no more data</string>
+	
+	<string name="loading">loading&#8230;</string>
+	<string name="get_data_error">Failed to get information</string>
+	<string name="tab_grammar_sakura">Grammar(桜JP)</string>
+	<string name="tab_grammar_biaori">Grammar(标日)</string>
+	<string name="tab_word_center">Word</string>
+	
+	<string name="level1">level1</string>
+	<string name="level2">level2</string>
+	<string name="level3">level3</string>
+	<string name="level4">level4</string>
+	<string name="level5">level5</string>
+	<string name="level6">level6</string>
+	<string name="level7">level7</string>
+	<string name="level8">level8</string>
+	<string name="level9">level9</string>
+	<string name="level10">leve10</string>
+	<string name="level11">level1</string>
+	<string name="level12">level2</string>
+	
+	
+</resources>

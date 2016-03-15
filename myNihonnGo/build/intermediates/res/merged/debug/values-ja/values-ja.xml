@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設置</string>
+    <string name="app_name">日本語手帳</string>
+    <string name="confirm">OK</string>
+    <string name="forgetPwd">暗证番号を忘れます</string>
+    <string name="hintAccountOrPwdWrong">ユーザIDやパスワードエラー</string>
+    <string name="hintCheckNet">ネットワークをチェックしてください</string>
+    <string name="hintEnterPhoneNum">携帯電話番号で入力してください</string>
+    <string name="hintEnterPwd">パスワードを入力してください</string>
+    <string name="hintEnterUserName">ユーザIDを入力してください</string>
+    <string name="hintLoginFail">ログイン失敗</string>
+    <string name="hintPhoneNumFormatWrong">電話番号合法ではありません</string>
+    <string name="hintPwdWrong">パスワードエラー</string>
+    <string name="login">ログイン</string>
+    <string name="remindNotOperate">これからも、一緒に勉強しましょう</string>
+    <string name="removeItem">削る</string>
+    <string name="share_content">日本語手帳とても良いです</string>
+    <string name="tab_function">ホームページ</string>
+    <string name="tab_gov_affairs">予備2</string>
+    <string name="tab_news_center">桜日本語</string>
+    <string name="tab_setting">設置</string>
+    <string name="tab_smart_service">予備1</string>
+</resources>

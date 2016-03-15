@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10.0dip" >
+
+    <TextView
+        android:id="@+id/tv_no"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginLeft="8dp"
+        android:gravity="center_vertical"
+        android:text="1"/>
+    
+	<TextView 
+	    android:id="@+id/tv_sentence"
+	    android:layout_width="wrap_content"
+	    android:layout_height="30dp"
+	    android:gravity="center_vertical"
+	    android:text="进公司的时候，需要钥匙卡。"
+	    android:layout_toRightOf="@id/tv_no"
+	    android:layout_marginLeft="9dp"
+	    android:textSize="17sp"
+	    android:textStyle="bold"/>
+
+
+</RelativeLayout>
