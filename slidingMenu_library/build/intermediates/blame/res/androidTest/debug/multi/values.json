@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "outputFile": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 215
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 306
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 362
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 415
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 472
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 549
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 686
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 765
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 826
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 888
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 951
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1029
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1108
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1201
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1294
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 9816
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 472,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 9885
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 473,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 9955
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 474,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 10021
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 475,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 10088
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 476,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 10151
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 477,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 10212
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 478,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 10272
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 480,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 10333
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 482,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 10400
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 483,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 10468
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 484,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 10534
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 485,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 10599
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 486,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 10653
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 488,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 10709
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 489,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 10748
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 490,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 10800
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 491,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 10854
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 492,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 10891
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 493,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 10934
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 10990
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 495,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 11065
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 497,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 11136
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 498,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 11215
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 499,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 11270
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 500,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 11344
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 501,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 11438
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 502,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 11512
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 503,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 11587
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 504,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 11657
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 505,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 11733
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 506,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 11808
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 507,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 11883
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 508,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 12030
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 509,
                         "startColumn": 4,
@@ -1000,7 +1000,7 @@
                     "endOffset": 12239
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 511,
                         "startColumn": 4,
@@ -1021,7 +1021,7 @@
                     "endOffset": 12385
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 516,
                         "startColumn": 4,
@@ -1041,7 +1041,7 @@
                     "endOffset": 12466
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 520,
                         "startColumn": 4,
@@ -1061,7 +1061,7 @@
                     "endOffset": 12624
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 522,
                         "startColumn": 4,
@@ -1082,7 +1082,7 @@
                     "endOffset": 13107
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 526,
                         "startColumn": 4,
@@ -1103,7 +1103,7 @@
                     "endOffset": 13381
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 536,
                         "startColumn": 4,
@@ -1124,7 +1124,7 @@
                     "endOffset": 13848
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 542,
                         "startColumn": 4,
@@ -1145,7 +1145,7 @@
                     "endOffset": 14199
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 551,
                         "startColumn": 4,
@@ -1166,7 +1166,7 @@
                     "endOffset": 14466
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 558,
                         "startColumn": 4,
@@ -1187,7 +1187,7 @@
                     "endOffset": 15100
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 563,
                         "startColumn": 4,
@@ -1208,7 +1208,7 @@
                     "endOffset": 15789
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 574,
                         "startColumn": 4,
@@ -1228,7 +1228,7 @@
                     "endOffset": 15872
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 586,
                         "startColumn": 4,
@@ -1247,7 +1247,7 @@
                     "endOffset": 15981
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 588,
                         "startColumn": 4,
@@ -1267,7 +1267,7 @@
                     "endOffset": 16194
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 590,
                         "startColumn": 4,
@@ -1288,7 +1288,7 @@
                     "endOffset": 16325
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 595,
                         "startColumn": 4,
@@ -1308,7 +1308,7 @@
                     "endOffset": 16420
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 599,
                         "startColumn": 4,
@@ -1327,7 +1327,7 @@
                     "endOffset": 16549
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 601,
                         "startColumn": 4,
@@ -1346,7 +1346,7 @@
                     "endOffset": 16678
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 603,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 16955
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 605,
                         "startColumn": 4,
@@ -1387,7 +1387,7 @@
                     "endOffset": 17162
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 611,
                         "startColumn": 4,
@@ -1408,7 +1408,7 @@
                     "endOffset": 17287
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 616,
                         "startColumn": 4,
@@ -1428,7 +1428,7 @@
                     "endOffset": 17378
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 620,
                         "startColumn": 4,
@@ -1448,7 +1448,7 @@
                     "endOffset": 17733
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 622,
                         "startColumn": 4,
@@ -1469,7 +1469,7 @@
                     "endOffset": 17997
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 629,
                         "startColumn": 4,
@@ -1490,7 +1490,7 @@
                     "endOffset": 18274
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 634,
                         "startColumn": 4,
@@ -1511,7 +1511,7 @@
                     "endOffset": 18530
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 639,
                         "startColumn": 4,
@@ -1532,7 +1532,7 @@
                     "endOffset": 18801
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 644,
                         "startColumn": 4,
@@ -1553,7 +1553,7 @@
                     "endOffset": 19066
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 649,
                         "startColumn": 4,
@@ -1574,7 +1574,7 @@
                     "endOffset": 19344
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 654,
                         "startColumn": 4,
@@ -1595,7 +1595,7 @@
                     "endOffset": 19601
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 659,
                         "startColumn": 4,
@@ -1616,7 +1616,7 @@
                     "endOffset": 19873
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 664,
                         "startColumn": 4,
@@ -1637,7 +1637,7 @@
                     "endOffset": 20079
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 669,
                         "startColumn": 4,
@@ -1658,7 +1658,7 @@
                     "endOffset": 20349
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 674,
                         "startColumn": 4,
@@ -1679,7 +1679,7 @@
                     "endOffset": 20507
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 680,
                         "startColumn": 4,
@@ -1700,7 +1700,7 @@
                     "endOffset": 20636
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 684,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 20765
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 688,
                         "startColumn": 4,
@@ -1742,7 +1742,7 @@
                     "endOffset": 21032
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 692,
                         "startColumn": 4,
@@ -1763,7 +1763,7 @@
                     "endOffset": 26187
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 698,
                         "startColumn": 4,
@@ -1784,7 +1784,7 @@
                     "endOffset": 31568
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 766,
                         "startColumn": 4,
@@ -1805,7 +1805,7 @@
                     "endOffset": 34462
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 834,
                         "startColumn": 4,
@@ -1826,7 +1826,7 @@
                     "endOffset": 34624
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 869,
                         "startColumn": 4,
@@ -1847,7 +1847,7 @@
                     "endOffset": 34780
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 874,
                         "startColumn": 4,
@@ -1867,7 +1867,7 @@
                     "endOffset": 34807
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 879,
                         "startColumn": 4,
@@ -1887,7 +1887,7 @@
                     "endOffset": 35703
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 881,
                         "startColumn": 4,
@@ -1908,7 +1908,7 @@
                     "endOffset": 36587
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 894,
                         "startColumn": 4,
@@ -1929,7 +1929,7 @@
                     "endOffset": 36848
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 907,
                         "startColumn": 4,
@@ -1950,7 +1950,7 @@
                     "endOffset": 37311
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 913,
                         "startColumn": 4,
@@ -1971,7 +1971,7 @@
                     "endOffset": 37648
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 923,
                         "startColumn": 4,
@@ -1992,7 +1992,7 @@
                     "endOffset": 38162
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 930,
                         "startColumn": 4,
@@ -2013,7 +2013,7 @@
                     "endOffset": 38318
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 940,
                         "startColumn": 4,
@@ -2034,7 +2034,7 @@
                     "endOffset": 38652
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 944,
                         "startColumn": 4,
@@ -2055,7 +2055,7 @@
                     "endOffset": 38951
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 950,
                         "startColumn": 4,
@@ -2075,7 +2075,7 @@
                     "endOffset": 39054
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 955,
                         "startColumn": 4,
@@ -2095,7 +2095,7 @@
                     "endOffset": 39392
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 957,
                         "startColumn": 4,
@@ -2115,7 +2115,7 @@
                     "endOffset": 39494
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 964,
                         "startColumn": 4,
@@ -2135,7 +2135,7 @@
                     "endOffset": 40336
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 966,
                         "startColumn": 4,
@@ -2156,7 +2156,7 @@
                     "endOffset": 41204
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 977,
                         "startColumn": 4,
@@ -2177,7 +2177,7 @@
                     "endOffset": 42100
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 990,
                         "startColumn": 4,
@@ -2197,7 +2197,7 @@
                     "endOffset": 42201
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1003,
                         "startColumn": 4,
@@ -2216,7 +2216,7 @@
                     "endOffset": 42268
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1005,
                         "startColumn": 4,
@@ -2235,7 +2235,7 @@
                     "endOffset": 42371
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1007,
                         "startColumn": 4,
@@ -2255,7 +2255,7 @@
                     "endOffset": 42527
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1009,
                         "startColumn": 4,
@@ -2275,7 +2275,7 @@
                     "endOffset": 42630
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1013,
                         "startColumn": 4,
@@ -2294,7 +2294,7 @@
                     "endOffset": 42698
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1015,
                         "startColumn": 4,
@@ -2313,7 +2313,7 @@
                     "endOffset": 42791
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1017,
                         "startColumn": 4,
@@ -2333,7 +2333,7 @@
                     "endOffset": 42954
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1019,
                         "startColumn": 4,
@@ -2354,7 +2354,7 @@
                     "endOffset": 43117
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1023,
                         "startColumn": 4,
@@ -2375,7 +2375,7 @@
                     "endOffset": 43420
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1027,
                         "startColumn": 4,
@@ -2396,7 +2396,7 @@
                     "endOffset": 43749
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1032,
                         "startColumn": 4,
@@ -2417,7 +2417,7 @@
                     "endOffset": 43955
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1037,
                         "startColumn": 4,
@@ -2438,7 +2438,7 @@
                     "endOffset": 44300
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1041,
                         "startColumn": 4,
@@ -2458,7 +2458,7 @@
                     "endOffset": 44408
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1048,
                         "startColumn": 4,
@@ -2478,7 +2478,7 @@
                     "endOffset": 44878
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1050,
                         "startColumn": 4,
@@ -2499,7 +2499,7 @@
                     "endOffset": 45163
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1058,
                         "startColumn": 4,
@@ -2519,7 +2519,7 @@
                     "endOffset": 45262
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1063,
                         "startColumn": 4,
@@ -2539,7 +2539,7 @@
                     "endOffset": 45428
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1065,
                         "startColumn": 4,
@@ -2559,7 +2559,7 @@
                     "endOffset": 45519
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1069,
                         "startColumn": 4,
@@ -2579,7 +2579,7 @@
                     "endOffset": 45743
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1071,
                         "startColumn": 4,
@@ -2600,7 +2600,7 @@
                     "endOffset": 46069
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1075,
                         "startColumn": 4,
@@ -2621,7 +2621,7 @@
                     "endOffset": 46465
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1080,
                         "startColumn": 4,
@@ -2642,7 +2642,7 @@
                     "endOffset": 46927
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1086,
                         "startColumn": 4,
@@ -2662,7 +2662,7 @@
                     "endOffset": 47022
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1094,
                         "startColumn": 4,
@@ -2681,7 +2681,7 @@
                     "endOffset": 47109
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1096,
                         "startColumn": 4,
@@ -2700,7 +2700,7 @@
                     "endOffset": 47184
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1098,
                         "startColumn": 4,
@@ -2720,7 +2720,7 @@
                     "endOffset": 47433
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1100,
                         "startColumn": 4,
@@ -2741,7 +2741,7 @@
                     "endOffset": 47872
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1105,
                         "startColumn": 4,
@@ -2762,7 +2762,7 @@
                     "endOffset": 48190
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1112,
                         "startColumn": 4,
@@ -2783,7 +2783,7 @@
                     "endOffset": 48388
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1117,
                         "startColumn": 4,
@@ -2804,7 +2804,7 @@
                     "endOffset": 48688
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 1121,
                         "startColumn": 4,

@@ -1,238 +1,434 @@
 [
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_roll_view.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout_roll_view.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_icon.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_words_center.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_words_center.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_view.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__popup_menu_item_layout.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_scroll_tab_item.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_layout.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_frame_anim.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\dialog_frame_anim.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_radio.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\item_sentence.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\item_sentence.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_settings.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_settings.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout_loading.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_checkbox.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_load_footer.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\pull_to_load_footer.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_message.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_checkbox.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_video.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\dialog.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_fragment_chat.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_home.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_home.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_function.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_function.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout_title_bar.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\fragment_main.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\list_view.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_alert_dialog.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_icon.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_location.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\viewpager_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\list_view.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_sentence_detail.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_sentence_detail.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_layout_emojicon_menu.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\mynihhogo\\slidingMenu_library\\unspecified\\res\\layout\\slidingmenumain.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__simple_dropdown_hint.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\content.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_expression.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar_overlay.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\act_news_detail.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\act_news_detail.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_menu.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout_title_bar.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_settings.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_settings.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_search_bar.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_login.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_login.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_frame_anim.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\dialog_frame_anim.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_contact_list.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_pager.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_pager.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_layout_chat_primary_menu.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_of_pager.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_of_pager.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_menu.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout_item_menu.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_close_item.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_item_layout.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_title_bar.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_radio.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_showvideo_activity.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_word_detail.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_word_detail.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_gov_guide.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_gov_guide.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\item_sentence.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\item_sentence.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__simple_dropdown_hint.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_toast.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\dialog_toast.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_home.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_chat_primary_menu.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_title_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_sentence_detail.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_sentence_detail.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout_item_menu.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_home.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_pager.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_pager.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_function.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_function.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_video.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_gov_guide.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_gov_guide.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_toast.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\dialog_toast.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\smart_service_frame.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\smart_service_frame.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_item_word.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frag_item_word.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_chat_menu_item.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_picture.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_view.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__popup_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_btn.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\dialog_text_btn.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_chat_history.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_right_menu.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_right_menu.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_title_item.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ipconfig.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\dialog_ipconfig.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_item_word.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_item_word.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_left_menu.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\layout_left_menu.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_video_call.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_layout.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_chat_input_menu.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_dropdown_item.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\smart_service_frame.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\smart_service_frame.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_switch_button.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\act_news_detail.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\act_news_detail.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_file.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\item_word.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\item_word.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar_overlay.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\fragment_main.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_activity_show_file.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_of_pager.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\layout\\frame_of_pager.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_chat_message_list.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_close_item.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\item_word.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\item_word.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_left_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout_left_menu.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ipconfig.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\dialog_ipconfig.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_load_footer.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\content.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\dialog_text_btn.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_home.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_words_center.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_words_center.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_roll_view.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout_roll_view.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_word_detail.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_word_detail.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\slidingMenu_library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_login.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frag_login.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\layout\\frame_right_menu.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\layout\\frame_right_menu.xml"
     }
 ]

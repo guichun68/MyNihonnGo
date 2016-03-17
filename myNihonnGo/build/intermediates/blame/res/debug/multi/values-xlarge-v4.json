@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "outputFile": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 113
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 252
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 448
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 509
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 578
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -163,13 +163,51 @@
                     "endOffset": 647
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
                         "startOffset": 709,
                         "endColumn": 68,
                         "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 52,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 53,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 53,
+                        "endOffset": 157
                     }
                 }
             }

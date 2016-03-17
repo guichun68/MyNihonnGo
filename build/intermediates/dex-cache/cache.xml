@@ -1,3 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="47c59e398a6ec82514ce815e8d43ffe35a1fc941">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\BaiduLBS_Android_57cdae02b88dd3f92a222a44cc59957b8201c1dd.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_7a51491f191efbd9ef697e7d8fc9abdd1be81809.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3cc20e180714fec89da14e8d1c069bb071a8d678">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\org.apache.http.legacy_68a03bf99e41d016d3f9c2a59c92002c340be367.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\libs\fastjson.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\fastjson_372980a0e3faaffffb1eecf7deb99ff9d22e7f90.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\Parse-1.9.4_a39fb24e317597993229d64ae47197a89ca5539b.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="11de02f4fed7c483aef67d321606605d90005c83">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\google-play-services_5d90a8f45fe3bad01f1bc4b6ca158dc243287d76.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6fddb208ee1b4361ee62224e2cf64c15cc1d234c">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\android-support-v4_e0f475d6f0657e41345327e7dae257635665b91a.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\slidingMenu_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="84161638800dc0a95e6a55d330e893d0b247d099">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\MyNihonnGo-slidingMenu_library-unspecified_f62b68fc0ffab2c60a5d9f6d67adb7f9657ff0b8.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5ad0667ff2e6f6babc8dcce601caa7c92bf7cdd9">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\glide-3.6.1_1cd7980751eacee8c66ec880ac51af07a4c05039.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\com.actionbarsherlock-actionbarsherlock-4.4.0_3ad9a7479f4074ec3eb542673e40b33ae4d9816e.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7658ca79badc55f3eac35f503ec46e77a26f00bd">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\MyNihonnGo-easeui-unspecified_80d4040b0de90bc3eab9e01ed7a99c7f2b34dd2e.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_216153234f050ea15adc5e294051b5453054e6c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Austin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\gson-2.4_31e4961695dd39699fbcfd6a8627afb6afbc1a62.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\jars\libs\hyphenatechat_3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="357ea1cd8befa210c1caf1810211b829e3699c88">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\hyphenatechat_3.1.0_bba0a2aae0eff74bb001f65954ff9d23b99dd2b3.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f2585daad085d944360881dc3464b80656453c5c.jar" />
+    </item>
+    <item
+        jar="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\xutil_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8be6a5642eb082ae09e92eafac5f99aadad51931">
+        <dex dex="E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\pre-dexed\debug\MyNihonnGo-xutil_library-unspecified_5d69aff47061aa85674558d8cf8a0f947a5f8607.jar" />
+    </item>
+
+</items>

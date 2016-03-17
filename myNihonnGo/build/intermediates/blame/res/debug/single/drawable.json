@@ -1,210 +1,314 @@
 [
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_smartservice.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_smartservice.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\et_bg.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\et_bg.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_medium_holo.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_recording_hint_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg_pressed.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\btn_login_bg_pressed.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_selector.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bar_bg_one_row.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\title_bar_bg_one_row.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_frame_ani.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\dialog_frame_ani.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_item_part_word.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\click_btn_item_part_word.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_common_tab_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chat_image_selector.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_allyuanjiao.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\bg_allyuanjiao.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\news_tab_item_bg_select.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\news_tab_item_bg_select.9.png"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_setting.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_setting.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_medium_holo.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_search_clear.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_second_top.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\bg_second_top.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_smartservice.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_smartservice.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_mm_listitem.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\btn_login_bg.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_second_top.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\bg_second_top.9.png"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_mm_listitem_grey.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_function.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_function.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chat_press_speak_btn.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\news__tab_indicator.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\news__tab_indicator.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\button_update_selector.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\button_update_selector.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_function.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_function.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_bg_pressed.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\btn_item_bg_pressed.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_type_select_btn.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chatfrom_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_grammar.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_grammar.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\about_btn_normal_bg.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\about_btn_normal_bg.9.png"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_loading_bg.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\ic_loading_bg.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\about_btn_normal_bg.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\about_btn_normal_bg.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\news_tab_item_bg_select.9.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\news_tab_item_bg_select.9.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_newscenter.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_newscenter.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\et_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\et_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\button_update_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\button_update_selector.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_bg.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\btn_item_bg.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\toast_bg.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_item_part_word.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\click_btn_item_part_word.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg_pressed.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\btn_login_bg_pressed.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_govaffairs.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\icon_govaffairs.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chatto_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_click_btn_login.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\sel_click_btn_login.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\shadow.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_tab_bg.png",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\bottom_tab_bg.png"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bar_bg_one_row.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\title_bar_bg_one_row.9.png"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chat_location_selector.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_sidebar_background_pressed.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\shadow.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\btn.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\toast_bg.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_setting.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_setting.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_govaffairs.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_govaffairs.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_click_btn_login.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\sel_click_btn_login.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_frame_ani.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\drawable\\dialog_frame_ani.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_msg_state_failed_resend.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
-        "source": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_grammar.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_grammar.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\btn_login_bg.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_tab_bg.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\bottom_tab_bg.png"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_allyuanjiao.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\bg_allyuanjiao.9.png"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_bg_pressed.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\btn_item_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\news__tab_indicator.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\news__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_newscenter.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\icon_newscenter.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\drawable\\ease_chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_loading_bg.9.png",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\ic_loading_bg.9.png"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_bg.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\drawable\\btn_item_bg.xml"
+    },
+    {
+        "merged": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_dark.xml"
     }
 ]

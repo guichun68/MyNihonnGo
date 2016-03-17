@@ -12,6 +12,10 @@ import android.os.Looper;
 import android.util.Log;
 
 import com.austin.mynihonngo.utils.UIUtil;
+import com.hyphenate.chat.EMChatManager;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.chat.EMOptions;
+import com.hyphenate.chat.adapter.EMAChatConfig;
 
 /**
  * @Description TODO
@@ -20,7 +24,6 @@ import com.austin.mynihonngo.utils.UIUtil;
  */
 public class BaseApplication extends Application {
 	private final String TAG = "BaseApplication";
-
 	/** 全局Context，原理是因为Application类是应用最先运行的，所以在我们的代码调用时，该值已经被赋值过了 */
 	private static Context mInstance;
 	/** 主线程ID */
@@ -34,6 +37,18 @@ public class BaseApplication extends Application {
 
 	@Override
 	public void onCreate() {
+		mInstance = this;
+
+		//初始化环信------------------------------------
+		EMOptions options = new EMOptions();
+		//默认添加好友时，是不需要验证的，改成需要验证
+		options.setAcceptInvitationAlways(false);
+		//初始化
+		EMClient.getInstance().init(this, options);
+		//在做打包混淆时，关闭debug模式，避免消耗不必要的资源
+		EMClient.getInstance().setDebugMode(true);
+		//----------------------------------------------
+
 		// System.out.println("---BaseApplication---onCreate()---run-------------------");
 		// 异常捕获
 		// CrashHandler crashHandler = CrashHandler.getInstance();
@@ -43,7 +58,7 @@ public class BaseApplication extends Application {
 		mMainThread = Thread.currentThread();
 		mMainThreadHandler = new Handler();
 		mMainLooper = getMainLooper();
-		mInstance = this;
+
 
 		
 		CrashHandler handler = CrashHandler.getInstance();

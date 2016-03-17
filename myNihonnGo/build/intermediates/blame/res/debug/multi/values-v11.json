@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 4,
                     "endColumn": 12,
-                    "endOffset": 187
+                    "endOffset": 219
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 182,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 4,
                         "endColumn": 12,
-                        "endOffset": 316
+                        "endOffset": 219
                     }
                 }
             },
@@ -27,13 +27,34 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 192,
-                    "endLine": 8,
+                    "startOffset": 224,
+                    "endLine": 7,
                     "endColumn": 12,
-                    "endOffset": 377
+                    "endOffset": 356
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -46,15 +67,15 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 382,
-                    "endLine": 12,
+                    "startOffset": 551,
+                    "endLine": 15,
                     "endColumn": 12,
-                    "endOffset": 579
+                    "endOffset": 748
                 },
                 "from": {
-                    "file": "F:\\mynihhogo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -62,6 +83,46 @@
                         "endLine": 12,
                         "endColumn": 12,
                         "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 84,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "E:\\StudyOther\\MyNihonnGo\\myNihonnGo\\build\\intermediates\\exploded-aar\\MyNihonnGo\\easeui\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 84,
+                        "endOffset": 479
                     }
                 }
             }

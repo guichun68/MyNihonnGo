@@ -115,5 +115,15 @@ public interface ConstantValue {
 	 */
 	public static final String SP_SLIDINGM_CURRINDEX_SAKURA = "sp_slidingM_currIndex_skr_liststr";
 	
-
+//--------------环信常量start---------------------------------
+ 	 String NEW_FRIENDS_USERNAME = "item_new_friends";
+ 	 String GROUP_USERNAME = "item_groups";
+     String CHAT_ROOM = "item_chatroom";
+	 String ACCOUNT_REMOVED = "account_removed";
+	 String ACCOUNT_CONFLICT = "conflict";
+	 String CHAT_ROBOT = "item_robots";
+	 String MESSAGE_ATTR_ROBOT_MSGTYPE = "msgtype";
+	 String ACTION_GROUP_CHANAGED = "action_group_changed";
+	 String ACTION_CONTACT_CHANAGED = "action_contact_changed";
+//--------------------------end-----------------------------
 }

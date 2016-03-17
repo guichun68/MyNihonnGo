@@ -1,102 +1,195 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:2:1-37:12
-	package
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:4:5-36
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-	android:versionName
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:6:5-30
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:2:1-66:12
 	xmlns:tools
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:3:5-51
-	android:versionCode
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\debug\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\debug\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\debug\AndroidManifest.xml
 uses-sdk
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:8:5-10:41
-MERGED from [mynihhogo:slidingMenu_library:unspecified] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\mynihhogo\slidingMenu_library\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
-MERGED from [com.android.support:support-v4:23.1.1] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [mynihhogo:xutil_library:unspecified] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\mynihhogo\xutil_library\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
-MERGED from [com.android.support:support-v4:23.1.1] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [MyNihonnGo:slidingMenu_library:unspecified] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\slidingMenu_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
+MERGED from [MyNihonnGo:xutil_library:unspecified] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\xutil_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
+MERGED from [MyNihonnGo:easeui:unspecified] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\easeui\unspecified\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:10:9-38
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:9:9-35
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
-		INJECTED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\debug\AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:11:4-78
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:11:4-78
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:11:4-78
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:11:21-75
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:11:21-75
 uses-permission#android.permission.INTERNET
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:12:5-67
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:12:5-67
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:12:22-64
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:13:5-75
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:13:5-75
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:13:22-72
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:13:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:14:5-81
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:14:5-81
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:14:22-78
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:15:5-80
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:15:5-80
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:15:5-80
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:15:22-77
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:15:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:16:5-79
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:16:5-79
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:16:22-76
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:17:5-76
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:17:5-76
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:17:22-73
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:17:22-73
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:18:5-71
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:18:5-71
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:18:5-71
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:18:22-68
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:18:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:20:5-66
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.CAMERA
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:21:5-65
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:22:5-83
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:23:5-79
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:24:5-68
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:25:5-76
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:26:5-68
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:27:5-80
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:28:5-81
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:28:22-78
 application
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:19:5-35:19
-MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
-MERGED from [com.android.support:support-v4:23.1.1] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [mynihhogo:xutil_library:unspecified] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\mynihhogo\xutil_library\unspecified\AndroidManifest.xml:11:5-20
-MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
-MERGED from [com.android.support:support-v4:23.1.1] F:\mynihhogo\myNihonnGo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:31:5-64:19
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:31:5-64:19
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
+MERGED from [MyNihonnGo:xutil_library:unspecified] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\MyNihonnGo\xutil_library\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] E:\StudyOther\MyNihonnGo\myNihonnGo\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
 	android:label
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:24:9-41
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:36:9-41
 	android:allowBackup
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:21:9-35
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:33:9-35
 	android:icon
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:22:9-43
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:34:9-43
+		REJECTED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:34:9-43
 	android:theme
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:25:9-40
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:37:9-40
 	tools:replace
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:23:9-37
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:35:9-37
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:20:9-45
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:32:9-45
 activity#com.austin.mynihonngo.MainActivity
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:38:9-46:20
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:38:9-46:20
 	android:label
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:28:13-45
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:40:13-45
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:27:13-62
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:39:13-62
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:30:17-69
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:30:25-66
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:32:17-77
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from F:\mynihhogo\myNihonnGo\src\main\AndroidManifest.xml:32:27-74
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:44:27-74
+meta-data#EASEMOB_APPKEY
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:49:9-88
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:49:9-88
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:49:20-49
+	android:value
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:49:51-85
+service#com.hyphenate.chat.EMChatService
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:51:9-91
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:51:9-91
+	android:exported
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:51:66-89
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:51:18-65
+receiver#com.hyphenate.chat.EMMonitorReceiver
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:53:9-63:20
+MERGED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:53:9-63:20
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:53:19-70
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:54:13-57:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:55:25-77
+data
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:56:17-49
+	android:scheme
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:56:23-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:59:13-62:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:60:17-78
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:60:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from E:\StudyOther\MyNihonnGo\myNihonnGo\src\main\AndroidManifest.xml:61:25-74

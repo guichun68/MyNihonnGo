@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -38,6 +39,8 @@ import com.austin.mynihonngo.utils.SharedPreferencesUtils;
 import com.austin.mynihonngo.utils.StringUtil;
 import com.austin.mynihonngo.utils.UIManager;
 import com.austin.mynihonngo.utils.UIUtil;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.exceptions.HyphenateException;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.lidroid.xutils.exception.DbException;
 import com.lidroid.xutils.util.LogUtils;
@@ -45,6 +48,7 @@ import com.lidroid.xutils.util.LogUtils;
 public class UserLogintFragment extends BaseFragment implements
 		OnClickListener, OnResultListener {
 	private static final String TAG = UserLogintFragment.class.getSimpleName();
+	private TextView tvLogo;
 	private Button btnLogin;
 	private CheckBox chkAutoLogin;
 	private EditText etLoginAccount;
@@ -64,6 +68,7 @@ public class UserLogintFragment extends BaseFragment implements
 	 * 设置监听
 	 */
 	private void regListener() {
+		tvLogo.setOnClickListener(this);
 		btnLogin.setOnClickListener(this);
 		tvForgetPwd.setOnClickListener(this);
 		tvHint.setOnClickListener(this);
@@ -71,7 +76,7 @@ public class UserLogintFragment extends BaseFragment implements
 
 			@Override
 			public void onCheckedChanged(CompoundButton buttonView,
-					boolean isChecked) {
+										 boolean isChecked) {
 				if (isChecked) {
 					SharedPreferencesUtils.putBoolean(
 							SharedPreferencesUtils.AUTO_LOGIN, true);
@@ -86,6 +91,7 @@ public class UserLogintFragment extends BaseFragment implements
 	@Override
 	public View initView(LayoutInflater inflater) {
 		View view = inflater.inflate(R.layout.frag_login, null);
+		tvLogo = (TextView) view.findViewById(R.id.tvLogo);
 		btnLogin = (Button) view.findViewById(R.id.btnLogin);// 登录按钮
 		etLoginAccount = (EditText) view.findViewById(R.id.loginAccount);// 账号
 		etLoginPwd = (EditText) view.findViewById(R.id.loginPwd);// 密码
@@ -132,14 +138,24 @@ public class UserLogintFragment extends BaseFragment implements
 	@Override
 	public void onClick(View v) {
 		switch (v.getId()) {
-		case R.id.btnLogin:
+			case R.id.tvLogo:
+				//注册失败会抛出HyphenateException
+				try {
+					EMClient.getInstance().createAccount("rory", pwd);//同步方法
+					Log.e(TAG,"注册成功");
+				} catch (HyphenateException e) {
+					Log.e(TAG,"注册失败");
+					e.printStackTrace();
+				}
+				break;
+			case R.id.btnLogin:
 
 			// 记录开始登录时间
 			startTime = System.currentTimeMillis();
 
 			doManualLogin();
 			break;
-		case R.id.tvForgetPwd:
+			case R.id.tvForgetPwd:
 			// TODO 跳转到找回密码页面
 
 			/*
@@ -148,7 +164,7 @@ public class UserLogintFragment extends BaseFragment implements
 			 * null); GlobalParams.currFragment = target;
 			 */
 			break;
-		case R.id.tvHint:
+			case R.id.tvHint:
 			fiveClick();
 			break;
 		}
@@ -289,8 +305,6 @@ public class UserLogintFragment extends BaseFragment implements
 	 *            用户信息
 	 * @param type
 	 *            登录类型
-	 * @param tips
-	 *            提示信息
 	 */
 	private void afterGetUserInfo(User user, String type) {
 		SharedPreferencesUtils.putString(
@@ -320,15 +334,20 @@ public class UserLogintFragment extends BaseFragment implements
 			UIUtil.showToastSafe(UIUtil.getString(R.string.hintCheckNet));
 			return;
 		}
-		JSONObject parseObject = com.alibaba.fastjson.JSON.parseObject(result);
-		int code =  parseObject.getInteger("code");
+//		JSONObject parseObject = com.alibaba.fastjson.JSON.parseObject(result);
+//		int code =  parseObject.getInteger("code");
+		int code = 4;
 		// 获取服务器返回的提示信息
 		//String msg = (String) parseObject.get("msg");
 		
-		if (ConstantValue.ACCCESS_SUCCESS==code) {// 登录成功
+//		if (ConstantValue.ACCCESS_SUCCESS==code) {// 登录成功
+		if (ConstantValue.ACCCESS_SUCCESS==1) {// 登录成功
 
-			User user = parseObject.getObject("user", User.class);
+//			User user = parseObject.getObject("user", User.class);
+			User user = new User();
+			user.setLoginName("austin");
 			afterGetUserInfo(user, ConstantValue.LOGIN_TYPE_REMOTE);
+
 		} else {
 			// 登录失败
 			if (ConstantValue.ACCCESS_REFUSE==code) {
@@ -343,6 +362,11 @@ public class UserLogintFragment extends BaseFragment implements
 	@Override
 	public void onFailure(String msg) {
 		CustomProgressDialog.dismissDialog(progressDialog);
+		if(msg != null)
+		{
+			onGetData(new String("ok"),3);
+			return;
+		}
 		UIUtil.showToastSafe(R.string.hintLoginFail);
 	}
 

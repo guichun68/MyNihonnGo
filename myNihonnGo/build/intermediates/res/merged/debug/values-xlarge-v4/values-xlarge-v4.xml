@@ -9,4 +9,6 @@
     <dimen name="abs__action_button_min_width">64dip</dimen>
     <item name="abs__dialog_min_width_major" type="dimen">45%</item>
     <item name="abs__dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="image_thumbnail_size">198dp</dimen>
+    <dimen name="image_thumbnail_spacing">2dp</dimen>
 </resources>

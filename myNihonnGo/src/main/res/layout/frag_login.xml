@@ -5,7 +5,7 @@
     android:background="@mipmap/sakurajp" >
 
     <TextView
-        android:id="@+id/ivLogo"
+        android:id="@+id/tvLogo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
@@ -13,13 +13,14 @@
         android:text="これからも、一緒に勉強しましょう。"
         android:textSize="22dp"
         android:textStyle="bold"
+        android:clickable="true"
         android:textColor="@android:color/holo_red_light"/>
 
     <RelativeLayout
         android:id="@+id/ll_wenbaoxing"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/ivLogo"
+        android:layout_below="@id/tvLogo"
         android:layout_marginLeft="40dip"
         android:layout_marginRight="40dip"
         android:layout_marginTop="60dip" >

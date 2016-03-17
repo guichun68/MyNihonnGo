@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
-        "source": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_dark.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
-        "source": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_light.xml",
-        "source": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_light.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
     },
     {
-        "merged": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
-        "source": "F:\\mynihhogo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+        "merged": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "E:\\StudyOther\\MyNihonnGo\\slidingMenu_library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
     }
 ]
